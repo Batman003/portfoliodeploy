@@ -1,6 +1,6 @@
 {
-  "name": "my-portfolio-website",
-  "homepage": "https://batman003.github.io/my-portfolio-website",
+  "name": "portfoliodeploy",
+  "homepage": "https://batman003.github.io/portfoliodeploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
