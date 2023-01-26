@@ -38,7 +38,7 @@ const About = () => {
                         </article>
                     </div>
                     <p>
-                        Hi I'm Wajir Chaudhari. ipsum dolor sit amet, consectetur adipisicing elit. Hic nesciunt omnis praesentium. Doloribus cupiditate quasi doloremque et debitis nesciunt commodi omnis, similique, quis quidem, repellendus iure ex enim odit voluptatum.
+                        Hi I'm Wajir Chaudhari. I am a Software Developer, consectetur adipisicing elit. Hic nesciunt omnis praesentium. Doloribus cupiditate quasi doloremque et debitis nesciunt commodi omnis, similique, quis quidem, repellendus iure ex enim odit voluptatum.
                     </p>
                     <a href='#contact' className='btn btn-primary'>Let's Talk</a>
                 </div>
